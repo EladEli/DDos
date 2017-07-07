@@ -1,0 +1,6 @@
+c:\users\elizov\documents\visual studio 2015\Projects\DDos\DDos\bin\Debug\DDos.exe.config
+c:\users\elizov\documents\visual studio 2015\Projects\DDos\DDos\bin\Debug\DDos.exe
+c:\users\elizov\documents\visual studio 2015\Projects\DDos\DDos\bin\Debug\DDos.pdb
+c:\users\elizov\documents\visual studio 2015\Projects\DDos\DDos\obj\Debug\Client.csprojResolveAssemblyReference.cache
+c:\users\elizov\documents\visual studio 2015\Projects\DDos\DDos\obj\Debug\DDos.exe
+c:\users\elizov\documents\visual studio 2015\Projects\DDos\DDos\obj\Debug\DDos.pdb

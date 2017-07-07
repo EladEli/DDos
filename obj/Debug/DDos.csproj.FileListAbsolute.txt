@@ -1,0 +1,1 @@
+c:\users\elizov\documents\visual studio 2015\Projects\DDos\DDos\bin\Debug\DDos.exe.config
